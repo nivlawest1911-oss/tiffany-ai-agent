@@ -22,4 +22,5 @@ runConfig:
   # - variable: MY_SECRET
   #   secret: mySecretRef
 
-source: tiffany-ed-app # <--- This points to the folder you just moved
+source: .
+
